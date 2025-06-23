@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Unreal_Projects\\Love_In_ETR 5.6\\Source\\Love_In_ETR\\Love_In_ETR.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Love_In_ETR 5.6\\.vscode\\compileCommands_Default\\Love_In_ETR.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Love_In_ETR 5.6\\Source\\Love_In_ETR\\Love_In_ETR.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Love_In_ETR 5.6\\.vscode\\compileCommands_Default\\Love_In_ETR.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Love_In_ETR 5.6\\Source\\Love_In_ETR\\Love_In_ETR.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Love_In_ETR 5.6\\.vscode\\compileCommands_Default\\Love_In_ETR.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Love_In_ETR 5.6\\Source\\Love_In_ETR\\MyActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Love_In_ETR 5.6\\.vscode\\compileCommands_Default\\Love_In_ETR.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Love_In_ETR 5.6\\Source\\Love_In_ETR\\MyActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Love_In_ETR 5.6\\.vscode\\compileCommands_Default\\Love_In_ETR.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
